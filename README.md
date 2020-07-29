@@ -4,4 +4,5 @@ The law of large numbers, in probability and statistics, states that as a sample
 The appfile python script allows you to visualize the concept of Law of Large numbers.
 
 Download the code and run the appfile.py.
-![alt text]('CAPTURE.PNG)
+
+![Screenshot](https://github.com/raman77768/Law-of-Large-Numbers/blob/master/Capture.PNG)
