@@ -41,6 +41,9 @@ def main():
 	plt.plot(Hx, Hy, color='green', linestyle='dashed', linewidth = 1,marker='o',markerfacecolor='blue', markersize=8)
 	plt.ylim(0,1)
 	plt.xlim(min(Hx),max(Hx))
+	plt.xlabel('number of flips done')
+	plt.ylabel('heads occurred')
+	plt.title('LAW OF LARGE NUMBERS')
 	plt.show()	
 
 button1 = tk.Button(text='Flip!!!!', command=main, bg='brown', fg='white', font=('helvetica', 9, 'bold'))
